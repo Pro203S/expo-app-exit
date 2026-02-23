@@ -1,6 +1,6 @@
 {
   "name": "expo-app-exit",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Close the app",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -19,13 +19,16 @@
     "react-native",
     "expo",
     "expo-app-exit",
+    "exit",
+    "close",
+    "graceful",
     "ExpoAppExit"
   ],
   "repository": "https://github.com/Pro203S/expo-app-exit",
   "bugs": {
     "url": "https://github.com/Pro203S/expo-app-exit/issues"
   },
-  "author": "Pro203S <prosirea2501@gmail.com> (https://github.com/Pro203S)",
+  "author": "Pro203S <prosirea203@gmail.com> (https://github.com/Pro203S)",
   "license": "MIT",
   "homepage": "https://github.com/Pro203S/expo-app-exit#readme",
   "dependencies": {},
