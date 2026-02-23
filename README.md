@@ -56,8 +56,11 @@ npx react-native run-ios
 
 ## 코드 예시
 
-```typescript
-import ExitApp from 'expo-app-exit';
+```jsx
+import AppExit from 'expo-app-exit';
+import { Button } from 'react-native';
 
-ExitApp();
+export default function App() {
+    return <Button title="Close" onPress={() => AppExit()} />;
+}
 ```

@@ -1,5 +1,7 @@
-// Reexport the native module. On web, it will be resolved to ExpoAppExitModule.web.ts
-// and on native platforms to ExpoAppExitModule.ts
-export { default } from './ExpoAppExitModule';
-export { default as ExpoAppExitView } from './ExpoAppExitView';
-export * from  './ExpoAppExit.types';
+import { NativeModule, requireNativeModule } from 'expo';
+
+declare class ExpoAppExitModule extends NativeModule {
+    AppExit(): void;
+}
+
+export default requireNativeModule<ExpoAppExitModule>('ExpoAppExit').AppExit;
