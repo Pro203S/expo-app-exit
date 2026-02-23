@@ -1,5 +1,7 @@
 # expo-app-exit
 
+[[English]](./docs/en.md)
+
 `expo-app-exit`는 다음 기능을 지원합니다.
 
 1. 📱 모듈 이름에 걸맞게 무려 앱을 종료할 수 있습니다.
@@ -10,10 +12,10 @@
 <table>
 <tr>
 <td>
-<img src="docs/ios.gif" alt="iOS의 앱 종료 예시 화면" />
+<img src="./docs/ios.gif" alt="iOS의 앱 종료 예시 화면" height="375" />
 </td>
 <td>
-<img src="docs/android.gif" alt="Android의 앱 종료 예시 화면" />
+<img src="./docs/android.gif" alt="Android의 앱 종료 예시 화면" height="375" />
 </td>
 </tr>
 <tr>
