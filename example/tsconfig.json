@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-app-exit": ["../src/index"],
+      "expo-app-exit/*": ["../src/*"]
+    }
+  }
+}
