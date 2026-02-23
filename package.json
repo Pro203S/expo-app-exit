@@ -18,11 +18,18 @@
   "keywords": [
     "react-native",
     "expo",
-    "expo-app-exit",
     "exit",
+    "quit",
     "close",
     "graceful",
-    "ExpoAppExit"
+    "ExpoAppExit",
+    "react-native-app-exit",
+    "react-native-close-app",
+    "expo-close-app",
+    "ios",
+    "android",
+    "close-app",
+    "quit-app"
   ],
   "repository": "https://github.com/Pro203S/expo-app-exit",
   "bugs": {
