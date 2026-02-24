@@ -26,7 +26,7 @@
 ## Notes
 
 - ❌ Not supported in Expo Go.
-- ✅ Requires expo-dev-client. No additional plugins are needed.
+- ✅ Requires [expo-dev-client](https://docs.expo.dev/versions/latest/sdk/dev-client/). No additional plugins are needed.
 
 ## Installation
 

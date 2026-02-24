@@ -28,7 +28,7 @@
 ## 주의사항
 
 - ❌ Expo Go로는 사용할 수 없습니다.
-- ✅ expo-dev-client가 필요합니다. 아무 플러그인도 필요하지 않습니다.
+- ✅ [expo-dev-client](https://docs.expo.dev/versions/latest/sdk/dev-client/)가 필요합니다. 아무 플러그인도 필요하지 않습니다.
 
 ## 설치
 
