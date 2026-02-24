@@ -1,6 +1,8 @@
 # expo-app-exit
 
-expo-app-exit provides the following features:
+![Expo SDK Version](https://img.shields.io/badge/Expo%20SDK-54.0.27-black?logo=expo) ![license](https://img.shields.io/npm/l/expo-app-exit) ![stars](https://img.shields.io/github/stars/Pro203S/expo-app-exit) [![Report Issue](https://img.shields.io/badge/Report-Issue-red)](https://github.com/Pro203S/expo-app-exit/issues)
+
+`expo-app-exit` provides the following features:
 
 1. 📱 As the name suggests, it allows you to exit the app.
 2. 💃 Gracefully exits the app on iOS.

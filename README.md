@@ -1,5 +1,7 @@
 # expo-app-exit
 
+![Expo SDK Version](https://img.shields.io/badge/Expo%20SDK-54.0.27-black?logo=expo) ![license](https://img.shields.io/npm/l/expo-app-exit) ![stars](https://img.shields.io/github/stars/Pro203S/expo-app-exit) [![Report Issue](https://img.shields.io/badge/Report-Issue-red)](https://github.com/Pro203S/expo-app-exit/issues)
+
 [[English]](./docs/en.md)
 
 `expo-app-exit`는 다음 기능을 지원합니다.
